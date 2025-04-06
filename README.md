@@ -30,7 +30,7 @@
 <p align="left">- I'm working as a young apprentice in the IT field 💻<br>- Experienced in building virtual assistants and RPA solutions ⚙️ <br>- Looking forward to working on AI projects 🌐<br>- Completely in love with drawing in my free time 🤍</p>
 
 ###
- <br>
+
 <h2 align="left">I am familiar with...</h2>
 
 ###

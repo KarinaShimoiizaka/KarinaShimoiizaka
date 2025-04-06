@@ -31,7 +31,6 @@
 
 ###
 
-<br>
 <h2 align="left">I am familiar with...</h2>
 
 ###
@@ -56,7 +55,6 @@
 
 ###
 
-<br>
 <h2 align="left">Listening to...</h2>
 
 ###

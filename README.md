@@ -30,7 +30,7 @@
 <p align="left">- I'm working as a young apprentice in the IT field 💻<br>- Experienced in building virtual assistants and RPA solutions ⚙️ <br>- Looking forward to working on AI projects 🌐<br>- Completely in love with drawing in my free time 🤍</p>
 
 ###
-
+ <br>
 <h2 align="left">I am familiar with...</h2>
 
 ###
@@ -50,18 +50,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="70" alt="langchain logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
 ###
 
+<br>
 <h2 align="left">Listening to...</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vrfvma5kwqovpxq5mz6w53g73i&count=1" alt="Spotify recently played"  />
 </div>
 

@@ -51,15 +51,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<h2 align="left">Currently playing...</h2>
-
-###
-
-<div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vrfvma5kwqovpxq5mz6w53g73i&count=1" alt="Spotify recently played"  />
-</div>
-
-###

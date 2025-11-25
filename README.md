@@ -8,14 +8,16 @@
 
 ###
 
-<p align="center">My name is Karina and I'm from Brazil</p>
+<p align="center">My name is Karina and I'm from Brazil!</p>
 
 ###
 
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)" width="52" height="40" alt="linkedin logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)" width="52" height="40" alt="instagram logo"  />
-</div>
+<p align="center">
+  <a href="https://instagram.com/teste">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a><a href="https://linkedin.com/teste"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a><img src="https://i.gifer.com/4tyu.gif", height="30" />
+  </a>
+</p>
+
 
 ###
 
@@ -74,6 +76,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
@@ -95,7 +99,7 @@
 
 ###
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools :P</h3>
 
 ###
 
@@ -110,3 +114,12 @@
 </div>
 
 ###
+
+<h1 align="center"></h1>
+
+###
+
+<div align="right">
+  <img height="200" src="https://cdn.stickers.gg/stickers/5248-snoopy-7.gif"  />
+</div>
+

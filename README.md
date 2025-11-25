@@ -13,7 +13,7 @@
 ###
 
 <p align="center">
-  <a href="https://www.instagram.com/kaa.shimoii?igsh=MWNyYmc2MzE2ajc0Nw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a><a href="https://www.linkedin.com/in/karina-shimoiizaka-martins-9100142b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a><img src="https://i.gifer.com/4tyu.gif", height="30" />
+  <a href="https://www.instagram.com/kaa.shimoii?igsh=MWNyYmc2MzE2ajc0Nw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a><a href="https://www.linkedin.com/in/karina-shimoiizaka-martins-9100142b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   </a>
 </p>
 

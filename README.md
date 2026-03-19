@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- I'm working as a developer assistant in the IT field 💻 <br>- Experienced in building AI agents and RPA solutions ⚙️ <br>- Currently working on backend with Micronaut/Srping Boot 🌐 <br>- Looking forward to working on AI projects 🌀 <br>- Completely in love with drawing in my free time 🤍</p>
+<p align="left">- I'm working as a developer assistant in the IT field 💻 <br>- Experienced in building AI agents and RPA solutions ⚙️ <br>- Currently working on backend with Micronaut/Spring Boot 🌐 <br>- Looking forward to working on AI projects 🌀 <br>- Completely in love with drawing in my free time 🤍</p>
 
 ###
 

@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="200" src="https://media.tenor.com/4zZoG7mEqlUAAAAi/snoopy.gif"  />
-</div>
 
-###
 
 <h1 align="center">Hello there!!</h1>
 
